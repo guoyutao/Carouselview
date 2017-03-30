@@ -1,0 +1,14 @@
+//
+//  Carouselview-PrefixHeader.pch
+//  Carouselview
+//
+//  Created by aspire on 16/3/8.
+//  Copyright © 2016年 guoyutao. All rights reserved.
+//
+
+#ifndef Carouselview_PrefixHeader_pch
+#define Carouselview_PrefixHeader_pch
+
+#import "CONST.h"
+
+#endif /* Carouselview_PrefixHeader_pch */
